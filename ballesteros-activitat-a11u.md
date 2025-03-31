@@ -10,7 +10,7 @@ Aquest és un projecte de pràctica per aprendre Git, GitHub i Markdown.
 
 
 
-### 
+### Elements de la ia
 
 | dades     | model| algorisme |
 |----------|------|-----------|
